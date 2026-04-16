@@ -4,6 +4,7 @@
 🏫 Bangladesh Army University of Science and Technology (BAUST)
 
 🚀 About Me
+
 🔭 Currently working on improving my programming and problem-solving skills
 🌱 Learning advanced concepts in software development & mobile app development
 👯 Looking to collaborate on CSE projects and open-source contributions
@@ -12,6 +13,7 @@
 📫 Reach me at: your email here
 😄 Pronouns: She/Her
 ⚡ Fun fact: I love turning ideas into real projects
+
 🛠️ Skills
 💻 Programming Languages
 
