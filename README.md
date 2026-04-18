@@ -5,33 +5,40 @@
 
 🚀 About Me
 
-🔭 Currently working on improving my programming and problem-solving skills
-🌱 Learning advanced concepts in software development & mobile app development
-👯 Looking to collaborate on CSE projects and open-source contributions
-🤔 Interested in gaining real-world project experience
-💬 Ask me about programming, algorithms, and CSE student life
-📫 Reach me at: your email here
-😄 Pronouns: She/Her
-⚡ Fun fact: I love turning ideas into real projects
+🔭 Currently improving my programming & problem-solving skills
+🌱 Learning software development, Android apps, and JavaFX
+👯 Open to collaborating on projects & open-source
+🤔 Interested in gaining real-world development experience
+💬 Ask me about programming, algorithms, and CSE topics
+📫 Email: ontiannesharoy@gmail.com
 
 🛠️ Skills
-💻 Programming Languages
 
-C • C++ • Java • Python • Kotlin • PHP
+💻 Programming Languages: 
+C, C++, Java, Python,  Kotlin,  PHP
 
-🌐 Web Development
+🌐 Web Development: 
+HTML,  CSS,  JavaScript (Basic)
 
-HTML • CSS • JavaScript (Basic)
+⚙️ Tools & Technologies: 
+Git,  GitHub,  VS Code,  Android Studio,  JavaFX
 
-⚙️ Tools & Technologies
+📚 Core Concepts: 
+Data Structures  Algorithms,  OOP,  
+Database Basics,  Compiler Basics,  
+Microprocessor (8086 Concepts),  
+Software Engineering
 
-Git • GitHub • VS Code • Android Studio
 
-📚 Core Concepts
+📈 Goals: 
 
-Data Structures • Algorithms • OOP • Database Basics
-
-📈 Goals
 🚀 Build real-world software projects
+
+🌐 Become a skilled Web Developer
+
 🌍 Contribute to open-source
-💡 Become a skilled software engineer
+
+💡 Grow into a professional software engineer
+
+🔗 Connect With Me
+Email: ontiannesharoy@gmail.com
